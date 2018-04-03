@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SubmissionAssignment8">
+    <output-path>$PROJECT_DIR$/out/artifacts/SubmissionAssignment8</output-path>
+    <root id="root">
+      <element id="archive" name="Smith-Chad-Assn8.zip">
+        <element id="directory" name="css">
+          <element id="dir-copy" path="$PROJECT_DIR$/../Assignment8/css" />
+        </element>
+        <element id="directory" name="src">
+          <element id="dir-copy" path="$PROJECT_DIR$/../Assignment8/src" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

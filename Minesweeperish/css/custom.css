@@ -1,0 +1,31 @@
+ .button {
+    -fx-background-color: cyan;
+    -fx-border-width: 3;
+    -fx-border-color: black;
+    -fx-alignment: center;
+    -fx-font-color: crimson;
+    -fx-font-family: monospace;
+    -fx-font-size: 14;
+}
+
+ #start-button {
+     -fx-background-color: cyan;
+     -fx-border-width: 3;
+     -fx-border-color: black;
+     -fx-alignment: center;
+     -fx-font-color: crimson;
+     -fx-font-family: monospace;
+     -fx-font-size: 14;
+ }
+
+ #start-button:hover {
+     -fx-cursor: hand;
+     -fx-font-color: black;
+ }
+
+ #start-button:disabled {
+
+     -fx-background-color: black;
+     -fx-font-color: black;
+ }
+
